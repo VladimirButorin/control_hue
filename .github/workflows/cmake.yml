@@ -31,8 +31,8 @@ jobs:
           windows # install os; linux, windows, or mac
         platform: 
           desktop # what platform are you installing for? desktop, winrt, android, or ios
-        # modules: 
-          # what optional Qt modules to install? qtcharts, qtnetworkauth ect...
+        modules: 
+          win64_mingw81 # what optional Qt modules to install? qtcharts, qtnetworkauth ect...
 
     - name: Configure CMake
       # Configure CMake in a 'build' subdirectory. `CMAKE_BUILD_TYPE` is only required if you are using a single-configuration generator such as make.
