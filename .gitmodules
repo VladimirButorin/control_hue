@@ -1,0 +1,3 @@
+[submodule "HueLib"]
+	path = HueLib
+	url = git@github.com:VladimirButorin/HueLib.git
