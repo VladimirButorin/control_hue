@@ -1,0 +1,510 @@
+{
+	"bridge" : "192.168.0.136",
+	"user"	 : "LD9j18l02VJdhITps6RBDhPCSAA5jNw6tgegJk7o",
+	"actions": [
+		{ 
+			"names" : ["saale"],
+			"action": "turnOn",
+			"params" : [],
+			"sleep" : 1
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.19, 0.05103125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.18, 0.071125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.17, 0.09278125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.16, 0.116],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.15, 0.14078125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.14, 0.167125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.13, 0.19503125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.12, 0.2245],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.11, 0.25553125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.1, 0.288125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.09, 0.32228125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.08, 0.358],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.07, 0.39528125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.06, 0.434125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.05, 0.47453125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.04, 0.5165],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.03, 0.56003125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.07, 0.60928125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.08, 0.574],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.09, 0.54028125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.1, 0.508125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.11, 0.47753125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.12, 0.4485],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.13, 0.42103125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.14, 0.395125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.15, 0.37078125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.16, 0.348],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.17, 0.32678125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.18, 0.307125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.19, 0.28903125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.2, 0.2725],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.21, 0.25753125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.22, 0.244125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.23, 0.23228125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.24, 0.222],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.25, 0.21328125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.26, 0.206125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.27, 0.20053125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.28, 0.1965],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.29, 0.19403125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.3, 0.193125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.3, 0.22],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.3, 0.26],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.3, 0.28],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.3, 0.323125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.29, 0.32303125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.28, 0.3245],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.27, 0.32753125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.26, 0.332125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.25, 0.33828125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.24, 0.346],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.23, 0.35528125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.22, 0.366125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.21, 0.37853125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.2, 0.3925],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.19, 0.40803125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.18, 0.425125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.17, 0.44378125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.16, 0.464],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.15, 0.48578125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.14, 0.509125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.13, 0.53403125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.12, 0.5605],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.11, 0.58853125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.1, 0.618125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.03, 0.56003125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.04, 0.5165],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.05, 0.47453125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.06, 0.434125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.07, 0.39528125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.08, 0.358],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.09, 0.32228125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.1, 0.288125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.11, 0.25553125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.12, 0.2245],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.13, 0.19503125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.14, 0.167125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.15, 0.14078125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.16, 0.116],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.17, 0.09278125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.18, 0.071125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "xy",
+			"params" : [0.19, 0.05103125],
+			"sleep" : 4
+		},
+		{
+			"names" : ["saale"],
+			"action": "turnOff",
+			"params" : [0.3, 0.1],
+			"sleep" : 1
+		}
+	]
+}
