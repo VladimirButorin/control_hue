@@ -40,13 +40,13 @@ jobs:
       run: |
         ls -la ${{github.workspace}}/qt/5.15.2/
         echo "------------------------"
-        ls -la ${{github.workspace}}/qt/5.15.2/win64_mingw81/
+        ls -la ${{github.workspace}}/qt/5.15.2/mingw81_64/
         echo "------------------------"
-        ls -la ${{github.workspace}}/qt/5.15.2/win64_mingw81/lib/
+        ls -la ${{github.workspace}}/qt/5.15.2/mingw81_64/lib/
         echo "------------------------"
-        ls -la ${{github.workspace}}/qt/5.15.2/win64_mingw81/lib/cmake/Qt5
+        ls -la ${{github.workspace}}/qt/5.15.2/mingw81_64/lib/cmake/Qt5
         echo "------------------------"
-        cmake -B ${{github.workspace}}/build -DCMAKE_BUILD_TYPE=${{env.BUILD_TYPE}} -DCMAKE_PREFIX_PATH=${{github.workspace}}/qt/5.15.2/win64_mingw81/lib/cmake/Qt5
+        cmake -B ${{github.workspace}}/build -DCMAKE_BUILD_TYPE=${{env.BUILD_TYPE}} -DCMAKE_PREFIX_PATH=${{github.workspace}}/qt/5.15.2/mingw81_64/lib/cmake/Qt5
 
     - name: Build
       # Build your program with the given configuration
